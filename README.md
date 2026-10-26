@@ -89,8 +89,8 @@ By comparing the accuracy on the training and test sets (without the word "Reute
 
 ## 🚀 How to Run Locally
 
-# This project was done in Google Colab
-* 1. Download the dataset from Kaggle (https://www.kaggle.com/datasets/rahulogoel/isot-fake-news-dataset)
-  2. Upload and open fake_news_detection_model.ipynb in Google Colab
-  3. Upload both CSV's (True.csv, Fake.csv) into the environement runtime files
-  4. Run the Notebook
+### This project was done in Google Colab
+1. Download the dataset from Kaggle (https://www.kaggle.com/datasets/rahulogoel/isot-fake-news-dataset)
+2. Upload and open fake_news_detection_model.ipynb in Google Colab
+3. Upload both CSV's (True.csv, Fake.csv) into the environement runtime files
+4. Run the Notebook
